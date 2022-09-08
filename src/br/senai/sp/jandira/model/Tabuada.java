@@ -20,7 +20,7 @@ public class Tabuada {
 			tabuada[i] = resultado;
 			
 			i++;
-			multiplicando++;
+			minimoMultiplicador++;
 		}
 		
 		return tabuada;
